@@ -1,0 +1,1 @@
+C:\Users\Оксана\Desktop\QA\Test.py ? C:\Users\Оксана\Desktop\QA &
